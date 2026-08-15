@@ -1,4 +1,4 @@
-# Repositório contendo o Mini-projeto Avaliativo da turma 05 de Análise de Dados com Python
+# Repositório contendo o Mini-projeto Avaliativo da turma 05 de Análise de Dados com Python do Programa SCTEC
 # Mini Projeto Turma 05
 
 Projeto de análise exploratória de dados em Python, focado em uma base de varejo. O objetivo é explorar, limpar e interpretar os dados para identificar padrões de compra, comportamento dos clientes e relações entre categorias de produtos e classes econômicas.
